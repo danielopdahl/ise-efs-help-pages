@@ -1,4 +1,5 @@
 ---
+path: "/blog/first-page"
 date: 2019-06-07T20:19:31.478Z
 title: First Page!
 ---
