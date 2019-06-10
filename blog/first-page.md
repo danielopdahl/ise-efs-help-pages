@@ -1,5 +1,5 @@
 ---
-path: help-pages/vehicles
+path: /help-pages/vehicles
 date: 2019-06-07T20:19:31.478Z
 title: Transfer ELD Data File - Vehicles
 ---
