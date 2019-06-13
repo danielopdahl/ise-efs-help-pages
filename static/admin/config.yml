@@ -1,9 +1,11 @@
 backend:
   name: github
-  repo: danielopdahl/netlify-cms-tutorial
+  repo: danielopdahl/ise-efs-help-pages-gatsby
 
 media_folder: static/assets
 public_folder: assets
+
+publish_mode: editorial_workflow
 
 collections:
   - name: blog
